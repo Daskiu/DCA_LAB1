@@ -8,5 +8,11 @@
     "papita": "index.html"
   },
   "author": "",
-  "license": "UNLICENSED"
+  "license": "UNLICENSED",
+  "dependencies": {
+    "mathjs": "^11.5.1"
+  },
+  "devDependencies": {
+    "is-number": "^7.0.0"
+  }
 }
