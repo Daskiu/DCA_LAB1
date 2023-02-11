@@ -1,0 +1,12 @@
+{
+  "name": "s2",
+  "version": "1.0.0",
+  "description": "Project",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "papita": "index.html"
+  },
+  "author": "",
+  "license": "UNLICENSED"
+}
